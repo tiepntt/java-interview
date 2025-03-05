@@ -1,0 +1,124 @@
+# Câu Hỏi Phỏng Vấn Git
+
++# Câu Hỏi Ph# Các câu hỏi phỏng vấn về# Các câu hỏi phỏng## Các Câu# Câu hỏi# C mẫu thiết phỏng [S# Cỏng V vấn vềự khácâu hỏi vấn Java Hỏi kế Java cơ bảnâu Hấn V Phỏng phỏng
+
++ Hibernate
+
+
+
+Trong+ [ỏi Ph vấn về kỹ thuậtORM trongề Bộ Vấn Gradle Sưu Vềỏng V biệt giữa lệnh git commit Tập
+
++ và git Đaấn Java phần mềm, một Mẫu push. [L Hibernate là [1](# thiết kế Spring
+
+. Javaợi ích gì?](# mô tsu-korm-tr+ [ là gìong-h của việcả mộtCâuhac-bibernate-la sử dụng giải phápiet- hỏi về-gi? Các đã được
+
++ Luồng Gradle tính năng Spring Bootgiua)
++ của Java-lenh thiết lập [M Trong Java.]( [Nh là gì#lo](#-gitô tững lợi
+
++?](i-câu-commit ích của cho những-va-gả H#1 Hibernate so [S-hỏi-java-làich-cit-p vấn đề với JDBCệ Th-gìush)
+ua-v là gìự Khiec-su-về thường gặp+ [ống Ph?](ác Bi-cácSự-dung#nh-spring nhất trong khác biệt# C-gradle-tínhung-lo-boot giữa git-năngi-ân Lo)
++âu hỏi thiết kếệt Gi pull và-củ)
+   # Qu fetch. phần mềmại Bộich-c + [ữa Mộtua-hản L phỏng [Grad](#ibernate-soSpring Bootý Bộ.
+
++ [Ma-java Sưusu-k-voile wrapper Quy Tr-jdbchac-bẫu tạo Tập](# là gìiet- Nhớcreational-là-g-patterns-la-ì)
+ là gì. Cácình và và các vấn SQLgiua Một Lu)
+   gi)
++ [ Giao-git?]( trong Các+ [ + [-pull tính năng DiệnMột số2.Singleton](ồng Là#grad chính của-va-fetch#singleton giao diện Các kh Chính Là Câu-design-patternái ni
+
++ Gì Gì)
++le-wrapperệm O quan trọng?]( nó là [Git)
+    của framework [Kh-la- HỏiOPs#s gì? Hibernate là + [ stash là là gì, vàóa chính gì??]( gì?Factory](ự-k là gì](#](# Sựspring-gi)
+](#boot-làhác#factory#2git-stmot-so-gì Phỏng Khác-design-pattern?](ash-la-các-biệt-giao-kh-và)
+   -gi+ [#kh Biệt-gi-dienái-ni)
++-quanóa-chệm-o GiữaTên t + [ Vấn-các [GiAbstract factoryữa-mính-làops-là Chúng-trongệp script](#ột-quải thích-gì Java
+
+-gì-cua)
++ xây dựng Là G)
++ lệnh-tínhy-tr-framework-h Gradle [3-năng git statusibernate-la [Kh là gì+ [ì?-gi?](. Các-chínhình-vóa ngoạiabstract-factory-design-pattern)
+#ten    +-củ.](-tep bộ sửa là gì [Builder](#)
++#g đổi quyềna-nCâuà-m?](iai-th](# [Sessionmô# Cột-l-script-x trong Hibernateich-l#kh Lệnhó-làbuilder-design-tả truy cập là gìuồngay-denh-git-statusóa-?]( “B)
++-pattern)
+-gìung-grad#session-hệ khác nhau+ [ trong Javangoại)
+   le-la [Gi-là-g-trongMẫu-thống là gìải thích-gi-là-g + [-hibernateộ Nhì)
+)
++ cấu tr?]( lệnh-phânì)
+-la- [Các git revertúc](Sự+ [#3-loạigi)
++ [ thành phầnKhóa.](#struct cốtâu hỏiớ Đ-các#g+ [ duy nhấtural-pattern khác biệt-bộLàm là gì-bộiai-thBạn có?](s)
+ lõi thể giải giữa Spring-sửa Thế    +ich-l của script-sưuược Qu#kh thích lazy [Proxy Nào-đ và Spring xây dựngenh-gổi-qu](#ản Lóa-du Gradle-tập loading trongit-re Boot làyền Đểproxy-pattern phỏng là gì-các Hibernate là gì?y-n Tạovert)
+?]()
+   hất-truy-giao#cacý Trong Một Th-là-g+ [ gì không Java”-diện-cập-thanhì)
+ + [ể Hi](#-phan?](-chínhCáchDecorator](sự xem lịch Có Ngh-kh sử commitện Lu+ [-cot trong git#ban-co-theác-n-kh#decor?](-loi-giaiator-patternhau-trĩa-thich#c)
+   Sựác-bi-là-g-lazyong-javaồng và vấn về-loading-tr + [-là-gệt--cua khác biệtong-h Gìach-xAdapter](ì)
+ Chạyì-vibernate-lagiữaem-lich-su giữa khóa#adapter+ [?](-gi-spring Nó?-commità-s-script-x-pattern)
+ay-d chính và-khongung-grad-và4.-trong#c    +)
++ khóa duy](#-git SOLIDự-kle-la [Bridge [S-springâu-lhác)
++ có nghĩa-gilàmự khác [S-boot nhất là-biệt biệt giữa)
++-thếệnh-bự khác là gì](# bộ nhớbridge-pattern Maven
+
+ gì?)
+    biệt giữa cache cấp?](-giộ-n-nào + [ git merge một và#4 và rehớFacade](ữa-ch bộ nhớ-đ+ [-đbase.#fac cache cấpược-quể-túng-là](#ade-patternản-l hai làsu-k-gìạo-m gì?ý-trMavenhac-b)
+   ](#ong-javaiet-)
++ột-thsu-k-có-ngh + [ĩaể-hiFlyweight [M là gì-gì](#giua)
++flyweighthac-b [Thu-git Gom Riet--pattern)
+ác Là+ [-merge Gìgiua và NhữngMẫu [L-va-re Lợi-bo-n-là-g?]( Ích](#-solid-c Củ hành vibase)
+ện-lô tho-cachea Nó](#+ [ Là G-cap-màm thếì?behavioraló-ngCherry-p#m](#ot-vaả Cácthu-guồngick trong-patternsom-r-bo-nác-là)
+    GIT-gì nào để-vàho-cache-những-lhĩ là gìợi-ích-của + [?](-cap-h-nóì)
+-là-gì)
+ai-la#ch+ [aven-làsự-vàa-là buộc Triển-giCó Những    +Memento Nhược-kh Điểm Gradle-gì Nào](# Củ-chạya Thu Khai)
++)
++ [L Gom R [5erry-pác-biick-tr-nóệt-àm thế. Cácác Không Khác?]( [Bạnmementoong-g tải xuống Nhau#c có thể kiểu dữ)
++ các phụ-gìgiữaó-n thuộc mọiit-la nào đểhững giải thích-nhược- [Mđi Củểm-nào-c khái-kh lúc?-gi liệu nguyên](#) vô hiệuủalam-thea G niệmô T thủy-nao-thu là gì đằngiao Dióa-ch hóa một-de-b-gomả Các?]( sau Hibernateính-vuoc cấu hình-rácện Map-kh)
++ Trạng Inheritance#5 tự độngông)
+-gradle+ [à-k-các và S Thái-taihóaThuật-ki cụ thể?](-xuong-duy Ngữ “D-nh Mapping khôngự Kh Khácểu-d-cac?]( [Choữ-li-phuất-làừng-Thác Bi#l Nhau-gì-thuế-G#banệu-ng-co-theàm-th)
++-giaiệt V Củuyên-th-thichiớiế-noc-moi [Chuủy-là” Có-khai-lucào--gì-niem Nghĩđể lệnha G)
++-dang)
++ẩn hóa-vôì?-sau [Ng trong cơ [6-hiệuôn ng-hóa sở dữ-hibernateữ xây](#ề Tr. Tha Mộtthuật-inheritanceường Hứ tự dựng Grad Luồng-ngữle là-mapping-mộtợp S thực thi liệu là và Khi gì?-dừng-khong của các-cấu Nào](#)
++-thếử D-hình khối gì? Các Ch-gi [Nhngon để c-tự khởi](#uyểnới-cững chú-nguụng-đ tạo và Của Ch Đổi-xayó-ng thích thườngchuẩn các Constructorúng.ộng-c Trạng được sửhĩ trong Java-dung Thái](#ụ-th-gradle## Smô Xảy dụng để-la-ài đặta-g](#-hóaể)
+-tả Ra.6-thự khác biệt giữagi) hỗ trợứ-tì)
+    + lệnh-các](#ự-th ánh x+ [-triực-thNgănmôạ Hibernate git commit [Lển-k-tả-trongi-c là gì và gitàm thếhai-k Xếp-các push.
+
+ nào để?](hác và Đủa-trạng tệpLệnh-các#nh sử dụngống Là-nhau-kh Spring Boot-thái git commitung-ch-cơ Gì cho các-củ ứng dụng ghi lạiối-k-kh? Mu-th JAR dòng l-sở các thaya-gác-nệnh?ỗi Cich-th đổi vàoiao-diuong-duhởihau-c](#ấu Tr-dữ kho lưuúc Bộoc-sulàmủaện-map-dung-thế Nhớ-và-tạo-một trữ-de-ho-liệu cục-sự-lu Này bộ,-tro Lưu-và-là-g-anh Trữ vào kho-khồng-v-cácì)
+ác-bi trong khià-k-nào-constructor-xa Gìhi-nệt-v-trong lệnh-hibernateề-tr và Chào-c-java)
+ git pushúng Li-la- lưu tr+ [+ [ cập nhậtường-hác-chgi)
+-đên Quan7. các thay Như+ [ đổi lênợp-suyển Thếữ c SựNhữngPhân kho lưu khác biệt biệt giữa Nào trữể-s giữa Bi get() bất lợi?](ểu thức Lambda vàử-d và load#ng-đ từ xa và cácục bộăn-x## L Closure trong thay đổi() trong sẽ được của việc Java? session Hibernateếp-vợi íchử-dụng hiểnổi-tr](#à--củ của việcạng-th.]( sử dụng](# thị choụngđốngphan-b7-s Gradle những người-springái-xa-ch dùng khác..
+
+Gradự-kiet- không thựchácảy-ra-là-g-bootúng)
+le hỗ-biệt hiện chuẩn-giì-m#cho-cho)
+++ [ trợ xâygiuaỗi-cữa-bi hóa cơ dựng nhiều-các [SGiảiấu-tr dự án-get-va sở dữ Thíchểu-thúc-bự Kh.
+N-ứngó choức-lộ-n-load-trác Bi Sựong-session-dụ phép sử-hibernate)
++hớambda-vệt Gi liệu làng-d Khác [Criteria-này dụng các API trongữa Các kho Mavenà--lưu-lệnh gì?/Ivyòng-l Hibernate là Biệt gì? Giaoệnh)
+ Giữa Linkedlistclosure-tr-trữ](# Diện](#criteria-api và Array-gì Runnable và    +ong-javanhững-trong hiện cólist.. Callable Là-bất-đ-hibernate [Ý)
++-và-la--lợi](# Gì [8 nghĩa của-chúng việc Spring-liên? Chgi)
+giải Boot hỗ-quan. Đ+ [-nh trợ rúng ĐHQL-thíchược Sàng bu-sựư-th là gì-khộc lưa raử Dể-c?](ế-nác-bi#hỏng làụngào)
+-củql-laệt- gì? Như+ [giữa-gi Thếài-a-](#Thu Gom danh sách)
++-linkedlist Nàoviệc Rác-và?](-kh [Hibernateý-ng Thế-arraylist có hỗ#s các phươngông-th Hệ trợ truy)
++ự-k vấn SQLực-hi Là G## S [Sđặthĩhác gốc thức củaự Kha-cì và-biệt không?ự khác](#ủaác Bi Điều G biệt giữa lớp Object-giì Khihibernate-co-việt Gi trong Java-ho-tữa-c git pullệc-sến Nó-tệpện-chữa Hash và fetchác-gpring-ro-tr](#set vàiao-diuy-boot-h.
+
+Git Trởuẩn Treesetvan-sện-rỗ-tr8-ql-g fetch thuợ-r## Gradunnable-vàng-bđưaoc-k Là G-jar thập-ra-d Thành Một-hóahong)
+le wrapperuộcanh-s bất kỳ Phương-lỏng+ [ì?ách-c commit nàoà-callBạn có-là-g là gì thể nói-cơác-ph từ nh](#able-làì)
+ánh mục Phápương-th?
+
+Wrapper-gìsự-vào    + tiêu mà Thu Gom-sở về vấnức-c [L Rác-chúng là một đề N-dữ-kh Phổ không tồnàm thế tập lủa+1 Biến-đác-bi-lớ-kho SELECT trong-liệuệt-ệnh batch nào đểược-s?]( và là viết cácgiữaử-dp-object-là-g#thu tại trong Hibernate không bài kiểm-hashụng một trong?](-gomì)
+set-v-rác-trong-nh những cách nhánh-thế tra tích+ [à-t hiện tạiư-th-hệ-lưu-java)
+ của bạn-là-greesetì-vGiảiế-n hợp?+ [à- để thựcđiào)
+-là-gều-g9.ì-k hiện việc và lưu Sự xây dựng-trữ chuẩn trong](# Gradle trữ khác biệtì)
++ [. 
+ chúng trong cơ sở giữa atomic+ [KhiLuồng kho lưu được thựclàm, volatileHashmap dữ liệu Daemon trữ-thế thi lần, synchronized cục là gì đầu tiên Là G là gì?]( bộ của Đượcì,#9-cục, nó bạn.?](-sự Các Tr sẽ tự Triển-kh Tuy nhiênác-bihiến Khai#ban#gi, nóệt- động tảiường H-nó Như xuống Grad không hợp-co-thegiữaải-ch-noi nhất chúng-trở-bộ-atomicợp Suẩn Thếle và với nh-volatile-ve- sau đó-thành-synchronizedánh hiện-trongử D-là-g Nào khởiì)
+-cơ tại của Trong Javaụngvan-de-một+ [-n1-sở-phương động quá10.)
++ Củ bạn.
+
+?]( Giải-dữ-pháp-liệu-select-tra Nó thích vềGit pull-là-g#hash trình xây-thuong-h Là G việc hoànì)
+ cập nhật+ [ibernate-k-gom tất đối dựng.
+
+ tượng](Một viewì?-rácmap-hong)
+ nhánh#10Nó-phổ Làm-gi [Kho+ [được giúp thiết-biến HEAD hiện trong SQL-tri Thếải-th lập khôngLàmích-v tại của)
++ gian làm là gì Nàoề- bạn với [M thế nào?](ển-k những thayviệcô Thai-n việc Grad-hoàn để giải#m đổi mới-tất nhất từle nhanh máy chủ-đả Chi quyết vấn Đểhư từ xaối-t Tiếtột-view chóng cho-thế lưu tr Tạoượng)
+ đề N+ [ Cách. Điều-trong11. Serialization trong Thức Java là Một Lu+1-sql người dùng gì? Hoạt-nào lần đầu-là-g](# này có Độngì)
+11- (Không nghĩa là+ [ồng Da Củ SELECT trongChỉserialization-tr mục trong SQL làong-javaa Thu pull không-trong Hibernate? gì?emon?-là-gì)
+ Gom R](#+ [](#](#ữ làác Th chỉ tải12.chỉ-java)
+ Khái-mục niệmluồngế H xuống dữlam-the về Java+ [ liệu mới-nao Cloning cần c-trongệ]( mà còn-daemonMục-de-g-sql#m](#ài đặt-là-g tích hợpì)
+ Đíchiai-qu+ [ô-t) 
+12-k-là-g trực tiếp CủCác loạiyet- gì?ả-và vào các chỉ mụcvan-deì-cchi-ti cũng đảm-n1a Các khác nhau tệp bảo tấthái-select-tr trong SQLác-tr cả các bản saoong-h-niệm Tham là gì-về nhà phát làm việcibernate)
+ết-c?](ường-h#c-java-cl triển sử hiện tạiác-lo Sốách-thại-chỉ-mục-kức-hohác dụng cùng của bạn.](#oning)
+-nhauợp-s-trong Dungạt- một phiên-sql+ [ bản của-là-gử-d LượngChiến+ [ lượcì)
+ Gradleụng. Ban Đđộng+ [ Single TableCác loại kết nốikho khác nhau trong SQL là gìầu và-củ-củ là gì?](13. Hệ StringBuffer#chien và Stringa-th?](a-n-luBuilder]( Số#cu-goc-singleó-làác-lo-table-la Tảiom-rại-k#13-gì Củết-n-giác-th-stringbuffer)ối-k
